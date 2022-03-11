@@ -29,7 +29,7 @@
   ## Deployment
   
   The application can be found [Here](https://search-engine-1994.herokuapp.com/).
-  Screenshot: ![Screen-3-4-2022_34256_PM]("D:\gregc\Pictures\google book search.jpg")
+  Screenshot: ![Screen-3-4-2022_34256_PM]("![google book search](https://user-images.githubusercontent.com/91296976/157810450-7174cf51-fd8c-41e7-8d90-0110b97fae0f.jpg)")
 
  
 
