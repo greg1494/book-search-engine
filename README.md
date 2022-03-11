@@ -30,7 +30,7 @@
   
   The application can be found [Here](https://search-engine-1994.herokuapp.com/).
   
-  (https://user-images.githubusercontent.com/91296976/157810450-7174cf51-fd8c-41e7-8d90-0110b97fae0f.jpg)
+  [](https://user-images.githubusercontent.com/91296976/157810450-7174cf51-fd8c-41e7-8d90-0110b97fae0f.jpg)
 
  
 
